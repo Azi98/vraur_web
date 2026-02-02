@@ -11,6 +11,9 @@ export default function Home() {
         <p className="small" style={{ marginTop: 12 }}>
           If you reached this page from an email, you can safely close it.
         </p>
+        <p className="small" style={{ marginTop: 12 }}>
+                    If you are POPKA JOPKA then IDITE POMOYTES!!!
+        </p>
       </div>
     </div>
   );

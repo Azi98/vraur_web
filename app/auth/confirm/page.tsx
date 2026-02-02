@@ -6,8 +6,6 @@ export default function ConfirmPage() {
         <p>Your email is verified. You can go back to the app and sign in.</p>
         <p className="small">
           If you didn’t request this, you can ignore this page.
-
-          If you are POPKA JOPKA then IDITE POMOYTES!!!
         </p>
       </div>
     </div>
