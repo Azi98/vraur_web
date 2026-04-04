@@ -11,6 +11,14 @@ const instrumentSans = Instrument_Sans({
 export const metadata: Metadata = {
   title: "Vraur",
   description: "Coming soon 🦖",
+  keywords: [
+    "english vocabulary",
+    "vocabulary practice app",
+    "remember english words",
+    "English practice",
+    "Vraur",
+    "learn english in context"
+  ],
 };
 
 export default function RootLayout({
