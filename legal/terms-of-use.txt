@@ -1,0 +1,647 @@
+Terms of Use for Vraur
+
+Effective date: March 1, 2026
+
+These Terms of Use ("Terms") form a legally binding agreement between you and Aznaur Bedraev ("we," "us," or "our") regarding your access to and use of the Vraur mobile application (the "App"), related services, and any content or features made available through the App (collectively, the "Services").
+
+By downloading, accessing, creating an account for, or using the Services, you agree to be bound by these Terms. If you do not agree, do not use the Services.
+
+If you have questions, you may contact us at support@vraur.com.
+
+1. Eligibility
+
+You must be at least 16 years old to use the Services.
+
+By using the Services, you represent and warrant that:
+
+you are at least 16 years old;
+
+you have the legal capacity to enter into these Terms;
+
+you will comply with these Terms and all applicable laws.
+
+If you are using the Services on behalf of another person or entity, you represent that you have authority to bind them to these Terms.
+
+2. The Services
+
+Vraur is a language-learning application that may allow users to:
+
+create an account;
+
+save words, phrases, and other learning content;
+
+complete translation and language exercises;
+
+purchase subscriptions and, where available, additional practice packs;
+
+use AI-assisted and translation-assisted learning features.
+
+The Services are intended for educational and personal use only. They are not intended to provide certified translation, legal advice, medical advice, financial advice, or any other professional service.
+
+3. Account Registration and Security
+3.1 Account Required
+
+An account is required to access core features of the Services.
+
+You agree to provide accurate, current, and complete information and to keep it updated.
+
+3.2 Account Security
+
+You are responsible for:
+
+maintaining the confidentiality of your login credentials;
+
+all activity that occurs under your account;
+
+promptly notifying us at support@vraur.com if you suspect unauthorized access, misuse, or a security issue.
+
+3.3 Multiple Accounts
+
+You may create more than one account, but you may not use multiple accounts to:
+
+evade restrictions;
+
+bypass usage limits;
+
+abuse free features, promotional access, or pricing;
+
+avoid enforcement actions under these Terms.
+
+3.4 Account Sharing
+
+You may not share your account with another person or allow another person to use your account in a way that violates these Terms.
+
+3.5 Prohibited Registration Conduct
+
+You may not:
+
+create accounts using bots, scripts, or automated methods;
+
+use false, misleading, or unauthorized identity information;
+
+impersonate another person;
+
+create accounts for abusive, fraudulent, or limit-circumvention purposes.
+
+We may suspend or terminate accounts that violate this Section.
+
+4. Google Sign-In and Third-Party Login
+
+The Services may allow you to sign in using a third-party provider, including Google.
+
+If you choose to sign in through Google or another third-party provider:
+
+you remain responsible for your account and your use of the Services;
+
+your use of that sign-in method may also be subject to the third party's terms and privacy practices;
+
+we are not responsible for outages, access failures, suspensions, or policy decisions of the third-party provider.
+
+We may add, remove, or change third-party sign-in options at any time.
+
+5. Subscriptions, In-App Purchases, and Billing
+5.1 Paid Features
+
+The Services may offer paid subscriptions and other digital features, including additional practice packs or similar digital entitlements.
+
+5.2 Current Plan Names
+
+At the time of these Terms, available plans may include:
+
+Free
+
+Light
+
+Premium
+
+We may change, remove, rename, or add plans, benefits, features, prices, limits, or entitlements at any time.
+
+5.3 Monthly Subscriptions
+
+Paid subscriptions are offered on a monthly basis unless otherwise stated in the App.
+
+Subscriptions may automatically renew unless canceled before renewal, subject to the rules of the applicable app store or billing provider.
+
+5.4 App Store Billing
+
+Subscriptions and in-app purchases are currently processed through the applicable app marketplace, such as the Apple App Store, and may in the future also be processed through other authorized marketplaces if we choose to make them available there.
+
+By making a purchase, you agree that:
+
+charges are billed by the applicable store or payment platform, not directly by us unless explicitly stated;
+
+subscription management, cancellation, billing disputes, and many refund decisions are handled by the applicable store or payment provider;
+
+store terms, billing rules, and platform policies may apply in addition to these Terms.
+
+5.5 Cancellation
+
+If you purchase a subscription through an app store, cancellation generally takes effect at the end of the then-current billing period, unless the store states otherwise.
+
+Deleting the App or deleting your Vraur account does not automatically cancel a subscription billed through an app store. You are responsible for canceling through the applicable billing platform.
+
+5.6 Refunds
+
+Unless required by applicable law:
+
+refunds for subscriptions and in-app purchases handled through an app store are managed by the relevant app store;
+
+we do not guarantee refunds, credits, or reimbursement for unused time, unused attempts, or unused digital entitlements.
+
+6. Practice Attempts, Limits, and Extra Packs
+6.1 General
+
+Certain features of the Services may be limited by:
+
+monthly practice attempt allowances;
+
+subscription tier;
+
+purchased extra packs;
+
+technical, operational, or anti-abuse controls.
+
+6.2 Free Access
+
+If we offer a free tier or complimentary attempts, the amount, scope, and availability of such access are provided at our discretion and may be changed, reduced, suspended, or removed at any time.
+
+We do not guarantee any specific number of free attempts unless expressly stated in the App at that time.
+
+6.3 Paid Plan Allowances
+
+Paid plans may include monthly attempt allowances. At the time of these Terms, Light and Premium may include monthly attempt amounts displayed in the App (for example, allowances such as 120 or 300 attempts), but:
+
+these amounts are not guaranteed permanently;
+
+they may change at any time;
+
+availability and feature access may vary by version, user, region, or platform.
+
+6.4 Extra Packs
+
+Where offered:
+
+extra packs are currently offered in pack sizes displayed in the App (for example, packs of 30 attempts);
+
+extra packs may be available only to eligible paid subscribers;
+
+pricing, size, eligibility, and availability may change at any time.
+
+6.5 Expiration and Forfeiture
+
+Unless otherwise stated in the App or required by law, extra attempts may generally remain available, but we reserve the right to remove, expire, adjust, or invalidate them, including if:
+
+you delete your account;
+
+your account is terminated or suspended under these Terms;
+
+more than 12 months have passed since purchase;
+
+our underlying service costs, including AI or generation costs, materially increase;
+
+fraud, abuse, billing irregularities, or technical misuse is suspected.
+
+Unused attempts, extra attempts, and similar digital entitlements have no cash value and are not transferable unless we explicitly allow it.
+
+6.6 Failed Requests and Lost Attempts
+
+We may, but are not obligated to, restore, refund, or credit attempts that are lost, consumed, or unavailable due to:
+
+failed or interrupted requests;
+
+AI or translation-provider errors;
+
+network failures;
+
+outages;
+
+latency;
+
+bugs;
+
+billing sync issues;
+
+account issues;
+
+store/provider limitations;
+
+any other technical or operational issue.
+
+7. Subscription Recognition and Store Account Limitations
+
+Your Vraur account and your app-store purchase status may not always match in every scenario.
+
+In particular:
+
+purchase recognition, subscription validation, and entitlement restoration may depend on the applicable app store account and its platform rules (for example, the Apple ID used for the purchase), as well as third-party provider systems;
+
+using the same Vraur account on another device does not guarantee that a paid subscription will be recognized if the store account or platform conditions differ;
+
+creating multiple Vraur accounts does not duplicate, split, or transfer subscription entitlements.
+
+To the maximum extent permitted by law, we are not responsible for limitations, restrictions, mismatches, restoration failures, or access differences caused by:
+
+Apple;
+
+app store rules;
+
+billing providers;
+
+device/account mismatches;
+
+platform identity restrictions;
+
+third-party subscription infrastructure.
+
+8. User Content
+8.1 Your Content
+
+You may submit, create, store, or transmit content through the Services, including:
+
+translations;
+
+saved words and phrases;
+
+study inputs;
+
+prompts;
+
+learning content;
+
+other text you provide in connection with your use of the Services
+(collectively, "User Content").
+
+8.2 Ownership
+
+You retain whatever rights you may have in your User Content.
+
+8.3 License to Us
+
+By submitting or storing User Content through the Services, you grant us a limited, non-exclusive, worldwide, royalty-free license to host, store, reproduce, process, adapt, transmit, and use that User Content as reasonably necessary to:
+
+provide the Services;
+
+operate and maintain the App;
+
+troubleshoot issues;
+
+secure the Services;
+
+improve functionality;
+
+provide support;
+
+comply with legal obligations;
+
+enforce these Terms.
+
+This license ends when your User Content is deleted from our active systems, except to the extent retention is reasonably necessary for backups, legal compliance, security, fraud prevention, dispute resolution, or enforcement.
+
+8.4 Your Responsibility
+
+You are solely responsible for your User Content. You represent and warrant that you have the rights necessary to submit it and that it does not violate law or third-party rights.
+
+You may not submit content that is:
+
+unlawful;
+
+infringing;
+
+defamatory;
+
+threatening;
+
+abusive;
+
+hateful;
+
+deceptive;
+
+obscene;
+
+harassing;
+
+spammy;
+
+malicious;
+
+harmful to systems, users, or third parties.
+
+8.5 Removal
+
+We may review, restrict, remove, or disable access to User Content at any time if we believe it violates these Terms, law, platform rules, or our legitimate interests.
+
+9. AI Features and Important Disclaimers
+9.1 AI and Translation Providers
+
+Certain features of the Services rely on third-party providers, including OpenAI and DeepL, and may use artificial intelligence, machine learning, and automated language-processing technologies.
+
+9.2 No Guarantee of Accuracy or Suitability
+
+AI-generated, translated, or machine-assisted content may be:
+
+inaccurate;
+
+incomplete;
+
+outdated;
+
+misleading;
+
+inconsistent;
+
+biased;
+
+offensive;
+
+objectionable;
+
+unavailable;
+
+unsuitable for your intended purpose.
+
+We do not guarantee the correctness, completeness, reliability, legality, safety, availability, or suitability of any generated, translated, suggested, or automated content.
+
+9.3 Educational Use Only
+
+All AI-generated and machine-assisted content is provided for educational purposes only.
+
+You are solely responsible for reviewing and evaluating any output before relying on it.
+
+You must not rely on the Services as:
+
+a certified translation service;
+
+professional advice;
+
+legal advice;
+
+medical advice;
+
+safety-critical guidance;
+
+any guaranteed factual or authoritative source.
+
+9.4 Third-Party AI Output
+
+To the maximum extent permitted by law, we are not responsible for content generated, influenced, or processed by third-party AI or language providers, including if such content is alleged to be:
+
+unlawful;
+
+infringing;
+
+defamatory;
+
+abusive;
+
+hateful;
+
+misleading;
+
+offensive;
+
+spammy;
+
+harmful;
+
+otherwise objectionable.
+
+If you encounter such content, you should stop relying on it and contact us at support@vraur.com.
+
+10. Acceptable Use
+
+You may use the Services only in compliance with these Terms and applicable law.
+
+You may not:
+
+reverse engineer, decompile, or attempt to extract source code except where law expressly allows it;
+
+use the Services for unlawful, fraudulent, harmful, or deceptive purposes;
+
+attempt to interfere with, overload, probe, scrape, or disrupt the Services;
+
+use automation, bots, scripts, or similar means to access or use the Services without our written permission;
+
+bypass security or access controls;
+
+exploit bugs or loopholes;
+
+resell, rent, sublicense, or commercially exploit the Services without our written permission;
+
+use the Services to create competing products or datasets in a way that violates law or these Terms;
+
+misuse free access, attempts, subscription logic, paywalls, or pricing.
+
+We may take any action we reasonably believe necessary to protect the Services, users, third parties, or our rights.
+
+11. License to Use the App
+
+Subject to your compliance with these Terms, we grant you a limited, revocable, non-exclusive, non-transferable, non-sublicensable license to download, install, and use the App for your personal, non-commercial use on compatible devices you own or control.
+
+This license does not transfer any ownership rights to you.
+
+We may release updates, fixes, patches, upgrades, or modifications. You may need to install updates to continue using all or part of the Services.
+
+12. Intellectual Property
+
+The App, Services, and all related content (excluding your User Content), including software, text, designs, branding, graphics, interfaces, features, and underlying technology, are owned by us or our licensors and are protected by intellectual property and other applicable laws.
+
+You may not use our name, branding, logos, or other protected materials without our prior written consent.
+
+13. Service Availability, Changes, and Feature Modifications
+
+We may, at any time and for any reason, with or without notice (except where notice is required by law):
+
+modify the App or Services;
+
+change or remove features;
+
+change subscription plans or pricing;
+
+change free access;
+
+change attempt allowances;
+
+change eligibility rules;
+
+change extra-pack rules;
+
+add, restrict, or discontinue tools;
+
+suspend, interrupt, or terminate all or part of the Services.
+
+We do not guarantee that any specific feature, subscription tier, pricing structure, attempt limit, AI capability, login method, or content format will remain available.
+
+14. Suspension and Termination
+
+We may suspend, restrict, or terminate your access to the Services, with or without notice, if:
+
+you violate these Terms;
+
+we suspect fraud, abuse, or unlawful conduct;
+
+we are required to do so by law, platform rules, or third-party provider requirements;
+
+your use creates risk, harm, liability, or technical burden;
+
+your account remains inactive for an extended period;
+
+we discontinue the Services.
+
+You may stop using the Services at any time.
+
+14.1 Account Deletion
+
+You may request deletion of your account through the App where available, or by contacting support@vraur.com.
+
+We intend to remove or anonymize account data from active systems as soon as reasonably practicable after deletion is processed. However:
+
+certain limited records may be retained where required by law;
+
+certain technical records may persist temporarily in backups or security logs;
+
+deleting your account does not automatically cancel store-billed subscriptions;
+
+upon account deletion, unused attempts, extra attempts, and other in-app entitlements may be lost without compensation.
+
+15. Marketing and Communications
+
+We may send you:
+
+service-related messages;
+
+administrative notices;
+
+security alerts;
+
+account-related notices;
+
+updates about the Services.
+
+Where permitted by law, we may also send product updates, promotional messages, or marketing communications related to the App and our services.
+
+You may opt out of marketing communications where applicable, but you may still receive non-marketing messages necessary for account administration, support, security, billing, or legal compliance.
+
+16. Disclaimer of Warranties
+
+To the maximum extent permitted by applicable law, the Services are provided "as is" and "as available."
+
+We disclaim all warranties, express or implied, including any implied warranties of:
+
+merchantability;
+
+fitness for a particular purpose;
+
+non-infringement;
+
+accuracy;
+
+reliability;
+
+availability;
+
+uninterrupted access;
+
+error-free performance.
+
+We do not warrant that:
+
+the Services will always be available, secure, or uninterrupted;
+
+the Services will be free from bugs, delays, errors, or harmful components;
+
+results will meet your expectations;
+
+generated or translated content will be accurate, lawful, safe, or useful;
+
+attempts, subscriptions, entitlements, or account status will always sync perfectly across devices, stores, or providers.
+
+17. Limitation of Liability
+
+To the maximum extent permitted by applicable law, we shall not be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages, including loss of profits, loss of revenue, loss of business, loss of goodwill, loss of data, loss of content, or loss of digital entitlements, arising out of or related to:
+
+your use of or inability to use the Services;
+
+AI-generated or translated content;
+
+third-party provider failures;
+
+store billing issues;
+
+subscription recognition issues;
+
+lost attempts;
+
+content moderation decisions;
+
+interruptions, outages, delays, or errors;
+
+changes to the Services;
+
+suspension or termination of access.
+
+To the maximum extent permitted by law, our total aggregate liability for all claims arising out of or related to the Services shall not exceed the greater of:
+
+the amount you paid us (if any) for the Services in the 12 months before the event giving rise to the claim; or
+
+EUR 50.
+
+Nothing in these Terms excludes or limits liability that cannot legally be excluded or limited.
+
+18. Indemnification
+
+To the maximum extent permitted by law, you agree to defend, indemnify, and hold harmless us from and against claims, liabilities, damages, losses, costs, and expenses (including reasonable legal fees) arising out of or related to:
+
+your use of the Services;
+
+your User Content;
+
+your violation of these Terms;
+
+your violation of law;
+
+your violation of third-party rights;
+
+your misuse of subscriptions, attempts, or paid features.
+
+19. Privacy
+
+Your use of the Services is also subject to our Privacy Policy.
+
+By using the Services, you acknowledge that we may process personal information as described in our Privacy Policy.
+
+20. Governing Law and Disputes
+
+These Terms are governed by the laws of the Czech Republic, without regard to conflict of law principles.
+
+Subject to applicable mandatory consumer-protection laws, the courts of the Czech Republic shall have exclusive jurisdiction over disputes arising out of or relating to these Terms or the Services.
+
+If you are a consumer and mandatory law in your country of residence gives you additional rights or protections that cannot be waived, those rights remain unaffected.
+
+21. Changes to These Terms
+
+We may update these Terms from time to time.
+
+If we make changes, we may:
+
+update the "Effective date" above;
+
+post the updated Terms in the App or on our website;
+
+provide additional notice where required by law or where we consider it appropriate.
+
+By continuing to use the Services after updated Terms become effective, you agree to the revised Terms. If you do not agree, you must stop using the Services.
+
+22. Severability
+
+If any provision of these Terms is held invalid, illegal, or unenforceable, the remaining provisions will remain in full force and effect to the fullest extent permitted by law.
+
+23. Entire Agreement
+
+These Terms, together with any policies expressly incorporated by reference (including the Privacy Policy), constitute the entire agreement between you and us regarding the Services and supersede prior or contemporaneous understandings regarding the same subject matter.
+
+24. Contact
+
+If you have questions about these Terms or the Services, contact us at:
+
+support@vraur.com
