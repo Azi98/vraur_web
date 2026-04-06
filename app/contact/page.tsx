@@ -17,7 +17,6 @@ export default function ContactPage() {
           <ul className={styles.legalList}>
             <li>Bug reports and issue screenshots are welcome.</li>
             <li>Feedback and feature suggestions help us prioritize updates.</li>
-            <li>Replace the address above with your production support email.</li>
           </ul>
         </article>
       </main>
