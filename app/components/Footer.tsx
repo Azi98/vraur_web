@@ -18,7 +18,7 @@ export default function Footer() {
             </Link>
           ))}
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/vraur_app?igsh=M2J3aW5zNWNmajQ%3D&utm_source=qr"
             target="_blank"
             rel="noreferrer"
             className={styles.footerLink}
