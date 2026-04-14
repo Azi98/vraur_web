@@ -19,6 +19,9 @@ export const metadata: Metadata = {
     "Vraur",
     "learn english in context"
   ],
+  verification: {
+    google: "I-SeCcRzzbqiMYnq6aqxFVClHGU3SSzef2RSS-bFkr0",
+  },
 };
 
 export default function RootLayout({
