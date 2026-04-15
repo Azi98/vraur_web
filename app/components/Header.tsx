@@ -44,7 +44,7 @@ export default function Header() {
           </nav>
 
           <a
-            href="https://www.apple.com/app-store/"
+            href="https://apps.apple.com/cz/app/vraur/id6758308623"
             target="_blank"
             rel="noreferrer"
             className={styles.downloadCta}
@@ -80,7 +80,7 @@ export default function Header() {
           </nav>
 
           <a
-            href="https://www.apple.com/app-store/"
+            href="https://apps.apple.com/cz/app/vraur/id6758308623"
             target="_blank"
             rel="noreferrer"
             className={styles.mobileDownloadCta}

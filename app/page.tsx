@@ -22,7 +22,7 @@ export default function Home() {
               </p>
               <a
                 className={styles.heroStoreButton}
-                href="https://www.apple.com/app-store/"
+                href="https://apps.apple.com/cz/app/vraur/id6758308623"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="Download on the App Store"
@@ -475,7 +475,7 @@ export default function Home() {
             <h2 className={styles.downloadHeading}>Download the app today</h2>
             <a
               className={styles.downloadStoreButton}
-              href="https://www.apple.com/app-store/"
+              href="https://apps.apple.com/cz/app/vraur/id6758308623"
               target="_blank"
               rel="noreferrer"
               aria-label="Download on the App Store"
