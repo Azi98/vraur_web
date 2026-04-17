@@ -1,4 +1,4 @@
-export const siteUrl = "https://vraur.com";
+export const siteUrl = "https://www.vraur.com";
 
 export const siteName = "Vraur";
 
