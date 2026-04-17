@@ -1,10 +1,20 @@
 import fs from "node:fs/promises";
 import path from "node:path";
+import type { Metadata } from "next";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
 import styles from "../components/marketing.module.css";
+import { canonicalUrl } from "../seo";
 
 export const dynamic = "force-dynamic";
+
+export const metadata: Metadata = {
+  title: "Terms of Use",
+  description: "Read the Vraur terms of use.",
+  alternates: {
+    canonical: canonicalUrl("/terms"),
+  },
+};
 
 async function readTermsText(): Promise<string> {
   const termsPath = path.join(process.cwd(), "legal", "terms-of-use.txt");

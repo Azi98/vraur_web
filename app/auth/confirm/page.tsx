@@ -1,6 +1,15 @@
+import type { Metadata } from "next";
 import Footer from "@/app/components/Footer";
 import Header from "@/app/components/Header";
 import styles from "@/app/components/marketing.module.css";
+
+export const metadata: Metadata = {
+  title: "Email Confirmed",
+  robots: {
+    index: false,
+    follow: false,
+  },
+};
 
 export default function ConfirmPage() {
   return (

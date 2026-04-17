@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Instrument_Sans } from "next/font/google";
 import "./globals.css";
+import { siteDescription, siteName, siteUrl } from "./seo";
 
 const instrumentSans = Instrument_Sans({
   weight: ["400", "700"],
@@ -9,8 +10,13 @@ const instrumentSans = Instrument_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Vraur",
-  description: "Coming soon 🦖",
+  metadataBase: new URL(siteUrl),
+  applicationName: siteName,
+  title: {
+    default: siteName,
+    template: `%s | ${siteName}`,
+  },
+  description: siteDescription,
   keywords: [
     "english vocabulary",
     "vocabulary practice app",
@@ -19,6 +25,13 @@ export const metadata: Metadata = {
     "Vraur",
     "learn english in context"
   ],
+  openGraph: {
+    type: "website",
+    siteName,
+    title: siteName,
+    description: siteDescription,
+    url: siteUrl,
+  },
   verification: {
     google: "I-SeCcRzzbqiMYnq6aqxFVClHGU3SSzef2RSS-bFkr0",
   },

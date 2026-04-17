@@ -1,8 +1,22 @@
-
 import Image from "next/image";
+import type { Metadata } from "next";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import styles from "./components/marketing.module.css";
+import { canonicalUrl, siteDescription, siteName } from "./seo";
+
+export const metadata: Metadata = {
+  title: "Smart Vocabulary App",
+  description: siteDescription,
+  alternates: {
+    canonical: canonicalUrl("/"),
+  },
+  openGraph: {
+    title: siteName,
+    description: siteDescription,
+    url: canonicalUrl("/"),
+  },
+};
 
 export default function Home() {
   return (

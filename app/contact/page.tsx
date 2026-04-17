@@ -1,6 +1,16 @@
+import type { Metadata } from "next";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
 import styles from "../components/marketing.module.css";
+import { canonicalUrl } from "../seo";
+
+export const metadata: Metadata = {
+  title: "Contact",
+  description: "Contact Vraur support for help, feedback, or partnership requests.",
+  alternates: {
+    canonical: canonicalUrl("/contact"),
+  },
+};
 
 export default function ContactPage() {
   return (
