@@ -19,12 +19,11 @@ export const metadata: Metadata = {
   },
   description: siteDescription,
   keywords: [
-    "english vocabulary",
-    "vocabulary practice app",
-    "remember english words",
-    "English practice",
-    "Vraur",
-    "learn english in context"
+    "how to memorize english words",
+    "learn english",
+    "english vocabulary app",
+    "best app for vocabulary",
+    "app to enhance vocabulary"
   ],
   openGraph: {
     type: "website",
